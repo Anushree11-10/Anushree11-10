@@ -1,6 +1,6 @@
 Hello Everyone , I'm Anushree Panchal! 👋
 
-Welcome to my GitHub profile! I'm a student at the **International Institute of Professional Studies (IIPS)**, pursuing an **Integrated Master of Computer Applications (MCA)**.
+Welcome to my GitHub profile ! I'm a student at the **International Institute of Professional Studies (IIPS)**, pursuing an **Integrated Master of Computer Applications (MCA)**.
 
 I'm passionate about technology, programming, and exploring how software can solve real-world problems. I enjoy learning new technologies, building projects, and continuously improving my technical skills.
 
