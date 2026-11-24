@@ -20,8 +20,10 @@ I'm passionate about technology, programming, and exploring how software can sol
 - Data Structures & Algorithms
 - Artificial Intelligence & Emerging Technologies
 
-
 This GitHub profile is a collection of my learning journey, academic projects, experiments, and personal explorations in technology.
+
+# Contact links
+LinkedIn :https://www.linkedin.com/in/anushree-panchal-a3b54a43b
 
 I believe in learning by doing and look forward to building meaningful projects along the way!
 
